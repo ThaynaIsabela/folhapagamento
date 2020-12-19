@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SalarioCLT
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ SalarioCLT\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=valorBruto\ bonusPericulosidade\ bonusComissao
+comment1.target=SalarioCLT(double,\ double,\ double)
+comment1.text=\n\ COnstrutor\ para\ objetos\ da\ classe\ SalarioCLT\n
+comment2.params=
+comment2.target=double\ getValorLiquido()
+comment3.params=
+comment3.target=double\ getValorBruto()
+comment4.params=
+comment4.target=double\ getDescontoSalario()
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Motorista
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Motorista\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=nomeCompleto\ rg\ cpf\ salario
+comment1.target=Motorista(java.lang.String,\ java.lang.String,\ java.lang.String,\ Salario)
+comment1.text=\n\ COnstrutor\ para\ objetos\ da\ classe\ Professor\n
+comment2.params=
+comment2.target=java.lang.String\ getNomeCompleto()
+comment3.params=
+comment3.target=java.lang.String\ getDocumentoIdentificacao()
+comment4.params=salario
+comment4.target=void\ setSalario(Salario)
+comment5.params=
+comment5.target=Salario\ getSalario()
+numComments=6

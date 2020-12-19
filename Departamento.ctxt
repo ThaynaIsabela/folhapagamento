@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Departamento
+comment0.text=\n\ Classe\ abstrata\ Departamento\ -\ escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ aqui\n\ \n\ @author\ (seu\ nome\ aqui)\n\ @version\ (vers\u00E3o\ ou\ data)\n
+comment1.params=nomeDepartamento
+comment1.target=Departamento(java.lang.String)
+comment2.params=
+comment2.target=double\ valorTotalSalarios()
+comment3.params=
+comment3.target=void\ listaDeSalarios()
+comment4.params=
+comment4.target=void\ listaFuncionarios()
+comment5.params=
+comment5.target=void\ calcularSalarios()
+comment6.params=func
+comment6.target=void\ adicionarFuncionario(Funcionario)
+comment7.params=value
+comment7.target=void\ setNomeDepartamento(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getNomeDepartamento()
+numComments=9
